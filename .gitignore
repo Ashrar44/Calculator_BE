@@ -1,0 +1,14 @@
+Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# Frontend dependencies
+node_modules/
